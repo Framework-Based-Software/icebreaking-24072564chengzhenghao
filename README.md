@@ -15,7 +15,8 @@ In this course, I expect to learn the following:
 7. Performance Optimization: Understand the underlying mechanism of the framework, and learn how to optimize the code to improve the performance of the application.
 8. Project Practice: Practice the application of the framework through actual projects, from demand analysis to development, deployment and maintenance.
 
-![kongye](https://github.com/user-attachments/assets/2ec81621-8b6e-41fb-8518-23cea34ecb76)
+
+![fc8373ae3b1095e004c4867462cf989](https://github.com/user-attachments/assets/2e4f5d7f-9b10-4d58-afd6-93c0c7c6c791)
 
 ## GitHub Profile
 
